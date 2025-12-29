@@ -6,6 +6,7 @@ public class Main {
     static void main() {
 
         System.out.println("hi");
+        System.out.println("I'm Gyumin");
 
     }
 }
